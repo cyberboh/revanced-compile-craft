@@ -1,8 +1,11 @@
 YouTube: 19.09.37  
-YouTube-Music (arm-v7a): 6.45.54  
 YouTube-Music (arm64-v8a): 6.45.54  
+YouTube-Music (arm-v7a): 6.45.54  
 Twitter: 10.34.0-release.0  
-Reddit: 2024.13.0  
+Reddit: 2024.14.0  
+Tumblr: 33.9.0.110  
+Instagram (arm64-v8a): 325.0.0.35.91  
+Instagram (arm-v7a): 325.0.0.35.91  
 TikTok-Asia: 32.5.3  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
